@@ -35,6 +35,9 @@ But knowing the stuff will help you become better! :muscle:*
 - [Interactive Latency Infographics](https://people.eecs.berkeley.edu/~rcs/research/interactive_latency.html)
 - :page_facing_up: [Latency Numbers Every Programmer Should Know](https://gist.github.com/jboner/2841832)
 
+### Addresses
+- [Falsehoods Programmers Believe About Addresses](https://www.mjt.me.uk/posts/falsehoods-programmers-believe-about-addresses/)
+
 ### Time
 - :page_facing_up: [Falsehoods programmers believe about time](http://infiniteundo.com/post/25326999628/falsehoods-programmers-believe-about-time)
 - :page_facing_up: [More falsehoods programmers believe about time; “wisdom of the crowd” edition](http://infiniteundo.com/post/25509354022/more-falsehoods-programmers-believe-about-time)
@@ -56,7 +59,7 @@ But knowing the stuff will help you become better! :muscle:*
 - [RegexHQ](https://github.com/regexhq)
 
 ### Security
-- :book: [Security Programming] (https://www.dwheeler.com/secure-programs/)
+- :book: [Security Programming](https://www.dwheeler.com/secure-programs/)
 - :page_facing_up: [Rolling Your Own Crypto](http://loup-vaillant.fr/articles/rolling-your-own-crypto)
 - :book: [Foundations of Security: What Every Programmer Needs to Know ](https://www.goodreads.com/book/show/128003.Foundations_of_Security)
 - [OWASP Top 10](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project)
@@ -125,3 +128,8 @@ But knowing the stuff will help you become better! :muscle:*
 - [The Noun Project](https://thenounproject.com/)
 - [Without Coding](https://www.producthunt.com/@jurica87/collections/without-coding)
 - [Simpleicons](https://simpleicons.org/)
+
+### Where To Look For Further Info
+- [GeeksForGeeks](http://www.geeksforgeeks.org/)
+- [Dev.To](https://dev.to/)
+- [Stackoverflow](stackoverflow.com)
